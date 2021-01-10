@@ -3,7 +3,7 @@
 ### About Me 🚀<br>
 I am a student currently pursuing B.Tech in Computer Science and specialization in Software Engineering and also an energetic coder, an enthusiast for Web Development as well as Android/iOS development with flutter. Also I have been working with AWS Serverless Architechure and Firebase. 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
