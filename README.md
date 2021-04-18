@@ -77,7 +77,7 @@ I am a student currently pursuing B.Tech in Computer Science and specialization 
 <br>
 <br>
 
-![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishdutta&show_icons=true&hide_border=true)
+![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishdutta&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdutta&layout=compact)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anishdutta.anishdutta)
 
