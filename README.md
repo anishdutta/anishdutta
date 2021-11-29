@@ -3,22 +3,28 @@
 ### About Me 🚀<br>
 I am a student currently pursuing B.Tech in Computer Science and specialization in Software Engineering and also an energetic coder, an enthusiast for Web Development as well as Android/iOS development with flutter. Also I have been working with AWS Serverless Architechure and Firebase. 
 
+👇 Hit in your console/terminal to connect with me.
+
+```bash
+npx anish
+```
+
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><b>React</b> </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><b>Express</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span><b>MySQL</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="25%" align="center">
         <span><b>Flutter</b></span><br><br><br>
@@ -31,16 +37,16 @@ I am a student currently pursuing B.Tech in Computer Science and specialization 
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+        <span><b>Wordpress</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><b>Serverless</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/serverless.svg">
       </td>
     </tr>
     <tr valign="top">
