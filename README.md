@@ -1,4 +1,4 @@
-## Bonjour! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anish!](https://anishdutta.github.io) 
+## Bonjour! <img src="https://i.ibb.co/M8jZ1yy/marvel-future-revolution-marvel-future-fight.gif" width="29px">, I'm [Anish!](https://anishdutta.github.io) 
 
 ### About Me 🚀<br>
 I'm a Bengaluru-based software developer specializing in backend engineering. With a strong programming background, I'm passionate about creating innovative solutions to real-world challenges.
