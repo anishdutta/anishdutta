@@ -3,7 +3,7 @@
 ### About Me 🚀<br>
 I'm a Bengaluru-based software developer specializing in backend engineering. With a strong programming background, I'm passionate about creating innovative solutions to real-world challenges.
 
-I have extensive experience in building robust and scalable software applications. Proficient in Java, Python, and JavaScript, I'm well-versed in frameworks like Spring Boot and Django. From designing architecture to implementing intuitive user interfaces, I excel in full-stack development.
+I have extensive experience in building robust and scalable software applications. Proficient in Java, Python, and JavaScript, I'm well-versed in frameworks like Node.js and Django. From designing architecture to implementing intuitive user interfaces, I excel in full-stack development.
 
 👇 Hit in your console/terminal to connect with me.
 
